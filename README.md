@@ -141,7 +141,6 @@ The container follows security best practices:
 - `allowPrivilegeEscalation: false`
 - `readOnlyRootFilesystem: true`
 - All Linux capabilities dropped (`capabilities: drop: ALL`)
-- Based on `python:3.12-slim` for a minimal image footprint (~84 MB)
 
 ---
 
