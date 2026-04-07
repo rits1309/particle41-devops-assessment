@@ -118,6 +118,8 @@ curl http://localhost:8080/
 ```
 
 ---
+<img width="1007" height="164" alt="image" src="https://github.com/user-attachments/assets/4c0d7853-0f7e-4672-9661-0201ef736cf1" />
+
 
 ## Docker Image
 
