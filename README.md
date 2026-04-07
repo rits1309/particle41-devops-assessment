@@ -64,6 +64,7 @@ docker run -p 8080:8080 simpletimeservice
 # Test it
 curl http://localhost:8080/
 ```
+<img width="1210" height="490" alt="image" src="https://github.com/user-attachments/assets/3199a676-1fed-40c2-9aaa-4484ea5c294d" />
 
 Expected response:
 ```json
